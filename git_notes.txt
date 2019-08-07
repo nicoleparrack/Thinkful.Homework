@@ -13,6 +13,7 @@ only run this once
 once you do this copy and paste the commands from the section
 "or push an existing repository from the command line"
 
+================================================
 
 after the first push you just need to do 
 
