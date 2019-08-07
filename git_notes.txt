@@ -1,0 +1,25 @@
+how to push to github
+
+only run this once 
+
+1) git init 
+
+2) go into github and create a new repo 
+
+3) git add . 
+
+4) git commit -m "You message, generally whatever you did"
+
+once you do this copy and paste the commands from the section
+"or push an existing repository from the command line"
+
+
+after the first push you just need to do 
+
+acpp "My commit message"
+
+this is an alias normally you would need to do three steps
+
+1) git add . 
+2) git commit -m "My message"
+3) git push
