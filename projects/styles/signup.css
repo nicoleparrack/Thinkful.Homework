@@ -1,0 +1,63 @@
+body {
+  background: #298eea;
+  font-family:"raleway",sans-serif;
+  }
+
+.logo {
+  padding:15px;
+  height:75px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+form {
+  background-color:white;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  width:400px;
+  font-size:20px;
+}
+
+h1 {
+  font:30px;
+  padding:25px;
+  margin-bottom:20px;
+  text-align:center;
+}
+
+label {
+  display:block;
+  margin-bottom:15px;
+  margin-left:25px;
+}
+
+input {
+  display:block;
+  width:350px;
+  height:40px;
+  margin-bottom:10px;
+  margin-left:25px;
+  border:solid lightgray 1px;
+}
+
+button {
+  display:block;
+  width:350px;
+  height:55px;
+  background-color:#15CD72;
+  color:white;
+  text-align:center;
+  margin-left:25px;
+  font-size:20px;
+}
+
+p {
+  text-align:center;
+  margin-bottom:25px;
+  color:white;
+  font-size:20px;
+}
+
+
