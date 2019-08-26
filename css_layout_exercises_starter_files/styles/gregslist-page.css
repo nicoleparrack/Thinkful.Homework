@@ -1,0 +1,18 @@
+ul {
+  list-style-type:none;
+  margin:0;
+  padding:0;
+  height:100px;
+  width:600px;
+  background-color:lightgray;
+  border:1px black solid;
+  display: inline;
+}
+
+.GL {
+  text-align:left;
+}
+
+.PA {
+  text-align:right;
+}
